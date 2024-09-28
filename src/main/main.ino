@@ -133,7 +133,6 @@ void setup() {
 void loop() {
     printLCD();
     delay(500);
-    delay(1000);
     getDHT();
     Serial.println(freeRam());
     Serial.println(getTime());

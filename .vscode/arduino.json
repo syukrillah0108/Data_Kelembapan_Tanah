@@ -1,6 +1,6 @@
 {
     "configuration": "cpu=atmega328",
     "board": "arduino:avr:nano",
-    "sketch": "src/main/main.ino",
+    "sketch": "src/test/test.ino",
     "port": "/dev/ttyUSB0"
 }
